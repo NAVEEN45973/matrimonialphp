@@ -87,7 +87,7 @@
 </div>
 </section>
    <div id="profile1">
-       <h1 align="center">Your Profile</h1>   
+       <h1 align="center">Matched Profiles</h1>   
    <?php
 $servername = "localhost";
 $username = "username";
