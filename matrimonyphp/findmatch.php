@@ -18,7 +18,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/bootstrap.min.css">
-	<title>Login Form</title>
+	<title>Find match</title>
 	<style>
 .slider
 {
@@ -34,7 +34,7 @@
   background-size: 100% 100%;
   color:white;
   padding:20px;
-  font-size:35px;
+  font-size:25px;
 }
  #img_div{
    	width: 320px;
