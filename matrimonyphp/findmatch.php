@@ -112,7 +112,7 @@ if ($result->num_rows > 0) {
 
 if($gender1=='male')
 {
-$sql = "SELECT  username, email, image, salary, job, mobile, dateofbirth, gender FROM users where username!='$usermain' and gender='femal'";
+$sql = "SELECT  username, email, image, salary, job, mobile, dateofbirth, gender FROM users where username!='$usermain' and gender='female'";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
