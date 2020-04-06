@@ -90,7 +90,7 @@
        <h1 align="center">Matched Profiles</h1>   
    <?php
 $servername = "localhost";
-$username = "username";
+$username = "root";
 $password = "";
 $dbname = "matrimonyphp";
 
